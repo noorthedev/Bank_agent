@@ -23,6 +23,10 @@ Otherwise → "Account not found"
 
 📝 Example Accounts
 **Name	PIN	 Balance
+
 Anum	1234	$100,000
+
 Ali	 5678	  $50,000
+
 Sara	1111	$75,000**
+
