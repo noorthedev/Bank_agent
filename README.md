@@ -22,11 +22,13 @@ If match found → Balance displayed
 Otherwise → "Account not found"
 
 📝 Example Accounts
-**Name	PIN	 Balance
 
-Anum	1234	$100,000
+**Name 	PIN	  Balance**
 
-Ali	 5678	  $50,000
+Anum  	1234	  $100,000
 
-Sara	1111	$75,000**
+Ali	   5678	    $50,000
+
+Sara  	1111	  $75,000
+
 
